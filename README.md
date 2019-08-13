@@ -1,6 +1,6 @@
-# Way-Fair-Project
-Bringing Customers
-This is a project for WayFair company which i did as part of a data science competition. The goal was to build two models to 
-predict the probability that a customer will purchase from WayFair in the next 30 days as well as the expected revenue spent in the 
-next 30 days by each customer. I had two datasets with various information on the customers, sales call records and purchase history
-that i worked with to build the models. 
+## Way-Fair-Project
+#Bringing Customers
+This is a project for Way Fair company that i did as part of their data science competition. The goal was to build two models to 
+predict customer behavior : 1) which customers would purchase from WayFair by the end of then month
+                            2) the expected revenue the buying customers would spend 
+I had two datasets with various information on the customers including sales call records, purchase history, etc that I worked with to build the models. 
