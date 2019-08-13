@@ -2,9 +2,6 @@
 title: "WayFair"
 author: "Wilson Sithole"
 date: "08/05/2019"
-output:
-  pdf_document: default
-  html_document: default
 ---
 
   
